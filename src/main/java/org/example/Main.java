@@ -11,6 +11,5 @@ public class Main {
         System.out.println("Введите ваше имя!");
         Name name = new Name();
         Calculator calculator = new Calculator();
-
     }
 }
